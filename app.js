@@ -32,4 +32,7 @@ text:{
     },
 buttonText:{
   fronteSize:18
-  
+  color:'#fff',
+  fontWeight: 'bold',
+    },
+}),
